@@ -13,7 +13,7 @@
 
 - 👨‍💻 want to know more about me [click here](https://virinchymanepalli.web.app/)
 
-- 📫 How to reach me  [click here](https://www.linkedin.com/in/virinchi-manepalli-b05790175) ****
+- 📫 How to reach me  [click here](https://www.linkedin.com/in/virinchi-manepalli-b05790175)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
