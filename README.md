@@ -1,27 +1,19 @@
 <h1 align="center"> Hi there!!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I'm Virinchi Manepalli</h1>
 <h3 align="center">A passionate frontend developer from Earth</h3>
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="350px" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virinchimanepalli&label=Profile%20views&color=0e75b6&style=flat" alt="virinchimanepalli" /> </p>
 
 <p align="left"> <a href="https://twitter.com/virinchimanepa4" target="blank"><img src="https://img.shields.io/twitter/follow/virinchimanepa4?logo=twitter&style=for-the-badge" alt="virinchimanepa4" /></a> </p>
 
-- 🔭 I’m currently working in [Ed-tech startup(YC-21)](https://sparkstudio.co/)
+### 🔭 I’m currently working in [Ed-tech startup(YC-21)](https://sparkstudio.co/)
 
-- 🌱 I’m currently learning **Next.js, React native (Advance level)**
+### 🔭 Check out [My Portfolio](https://virinchymanepalli.web.app/)
 
-- 💬 Ask me about **React, Next.js, Javascript**
-
-- 👨‍💻 want to know more about me [click here](https://virinchymanepalli.web.app/)
-
-- 📫 How to reach me  [click here](https://www.linkedin.com/in/virinchi-manepalli-b05790175)
+### 📫 How to reach me [here](https://www.linkedin.com/in/virinchi-manepalli-b05790175/)
 
 
-### 🔭 Check out [My Portfolio](http://apoorv.web.app/)
-
-### 📫 Contact by going [here](http://apoorv.web.app/contact)
-
-#### 🦆 @quacky_batak
-<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="350px" />
 
 
 
