@@ -15,6 +15,16 @@
 
 - 📫 How to reach me  [click here](https://www.linkedin.com/in/virinchi-manepalli-b05790175)
 
+
+### 🔭 Check out [My Portfolio](http://apoorv.web.app/)
+
+### 📫 Contact by going [here](http://apoorv.web.app/contact)
+
+#### 🦆 @quacky_batak
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="350px" />
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/virinchimanepa4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="virinchimanepa4" height="30" width="40" /></a>
