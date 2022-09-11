@@ -1,34 +1,52 @@
-<h1 align="center"> Hi there!!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> 
+# Hi there!!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+
+I'm **Virinchi Manepalli**. I like to code and learn new things. Always ready to collaborate on projects.
+### 🔭 Check out [My Portfolio](http://apoorv.web.app/)
+
+### 📫 Contact by going [here](http://apoorv.web.app/contact)
 
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="350px" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=virinchimanepalli&label=Profile%20views&color=0e75b6&style=flat" alt="virinchimanepalli" /> </p>
+<br>
+<br>
 
-<p align="left"> <a href="https://twitter.com/virinchimanepa4" target="blank"><img src="https://img.shields.io/twitter/follow/virinchimanepa4?logo=twitter&style=for-the-badge" alt="virinchimanepa4" /></a> </p>
+## ✨ Skills✨
+ Programming Lanuages
+ <table>
+ <tr>
+  <td align="center"><img src="https://simpleicons.org/icons/cplusplus.svg" width="45px" height="45px" /><br/><sub><b>C++</b></sub></td>
+  <td align="center"><img src="https://simpleicons.org/icons/python.svg" width="45px" height="45px" /><br/><sub><b>Python</b></sub></td>
+  <td align="center"><img src="https://simpleicons.org/icons/c.svg" width="45px" height="45px" /><br/><sub><b>C</b></sub></td>
+ </tr>
+ </table>
+ Web Development
+ <table>
+ <tr>
+  <td align="center"><img src="https://simpleicons.org/icons/html5.svg" width="45px" height="45px" /><br/><sub><b>HTML5</b></sub></td>
+  <td align="center"><img src="https://simpleicons.org/icons/css3.svg" width="45px" height="45px" /><br/><sub><b>CSS3</b></sub></td>
+  <td align="center"><img src="https://simpleicons.org/icons/javascript.svg" width="45px" height="45px" /><br/><sub><b>JavaScript</b></sub></td>
+  <td align="center"><img src="https://simpleicons.org/icons/react.svg" width="45px" height="45px" /><br/><sub><b>React</b></sub></td>
+ </tr>
+ </table>
+ Version Control
+ <table>
+ <tr>
+  <td align="center"><img src="https://simpleicons.org/icons/git.svg" width="45px" height="45px" /><br/><sub><b>Git</b></sub></td>
+  <td align="center"><img src="https://simpleicons.org/icons/github.svg" width="45px" height="45px" /><br/><sub><b>Github</b></sub></td>
+ </tr>
+ </table>
+ Operating Systems
+ <table>
+ <tr>
+  <td align="center"><img src="https://simpleicons.org/icons/windows.svg" width="45px" height="45px" /><br/><sub><b>Windows</b></sub></td>
+  <td align="center"><img src="https://simpleicons.org/icons/linux.svg" width="45px" height="45px" /><br/><sub><b>Linux ❤</b></sub></td>
+ </tr>
+</table>
 
-### 🔭 I’m currently working in [Ed-tech startup(YC-21)](https://sparkstudio.co/)
+<br>
+<br>
 
-### 🔭 Check out [My Portfolio](https://virinchymanepalli.web.app/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uragirii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📫 How to reach me [here](https://www.linkedin.com/in/virinchi-manepalli-b05790175/)
-
-
-
-<br/>
-<br/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/virinchimanepa4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="virinchimanepa4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/virinchi-manepalli-b05790175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="virinchi-manepalli-b05790175" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11764384" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11764384" height="30" width="40" /></a>
-<a href="https://codesandbox.com/virinchi.msk83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="virinchi.msk83" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=virinchimanepalli&show_icons=true&locale=en&layout=compact" alt="virinchimanepalli" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=virinchimanepalli&show_icons=true&locale=en" alt="virinchimanepalli" /></p>
+![Gunjan's github stats](https://github-readme-stats.vercel.app/api?username=uragirii&count_private=true&show_icons=true)
