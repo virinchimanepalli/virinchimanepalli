@@ -1,4 +1,4 @@
-<h1 align="center"># Hi there!!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I'm Virinchi Manepalli</h1>
+<h1 align="center"> Hi there!!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I'm Virinchi Manepalli</h1>
 <h3 align="center">A passionate frontend developer from Earth</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virinchimanepalli&label=Profile%20views&color=0e75b6&style=flat" alt="virinchimanepalli" /> </p>
