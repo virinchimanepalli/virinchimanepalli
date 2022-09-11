@@ -1,5 +1,5 @@
-<h1 align="center"> Hi there!!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I'm Virinchi Manepalli</h1>
-<h3 align="center">A passionate frontend developer from Earth</h3>
+<h1 align="center"> Hi there!!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> 
+
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="350px" />
 
 
@@ -15,7 +15,8 @@
 
 
 
-
+<br/>
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
