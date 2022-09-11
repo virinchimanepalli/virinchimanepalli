@@ -47,6 +47,6 @@ I'm **Virinchi Manepalli**. I like to code and learn new things. Always ready to
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uragirii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virinchimanepalli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Gunjan's github stats](https://github-readme-stats.vercel.app/api?username=uragirii&count_private=true&show_icons=true)
+![Gunjan's github stats](https://github-readme-stats.vercel.app/api?username=virinchimanepalli&count_private=true&show_icons=true)
