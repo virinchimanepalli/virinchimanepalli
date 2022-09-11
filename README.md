@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Virinchi Manepalli</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Earth</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virinchimanepalli&label=Profile%20views&color=0e75b6&style=flat" alt="virinchimanepalli" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Next.js, React native (Advance level)**
 
-- 👨‍💻 All of my projects are available at [https://virinchymanepalli.web.app/](https://virinchymanepalli.web.app/)
-
 - 💬 Ask me about **React, Next.js, Javascript**
 
-- 📫 How to reach me **https://www.linkedin.com/in/virinchi-manepalli-b05790175**
+- 👨‍💻 want to know more about me [click here](https://virinchymanepalli.web.app/)
+
+- 📫 How to reach me  [click here](https://www.linkedin.com/in/virinchi-manepalli-b05790175) ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
