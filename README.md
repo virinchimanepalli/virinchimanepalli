@@ -1,9 +1,9 @@
 # Hi there!!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 I'm **Virinchi Manepalli**. I like to code and learn new things. Always ready to collaborate on projects.
-### 🔭 Check out [My Portfolio](http://apoorv.web.app/)
+### 🔭 Check out [My Portfolio](https://virinchymanepalli.web.app/)
 
-### 📫 Contact by going [here](http://apoorv.web.app/contact)
+### 📫 Contact by going [here](https://www.linkedin.com/in/virinchi-manepalli-b05790175/)
 
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="350px" />
 
