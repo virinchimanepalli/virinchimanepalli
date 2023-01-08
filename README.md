@@ -4,7 +4,7 @@ I'm **Virinchi Manepalli**. I like to code and learn new things. Always ready to
 
 ### 🔭 I'm Currently Working in [Ed-tech startup(YC-21)](https://sparkstudio.co/)
 
-### 🔭 Check out [My Portfolio](https://virinchymanepalli.web.app/)
+### 🔭 Check out [My Portfolio](https://virinchimanepalli.netlify.app/)
 
 ### 📫 Contact by going [here](https://www.linkedin.com/in/virinchi-manepalli-b05790175/)
 
