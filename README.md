@@ -2,7 +2,7 @@
 
 I'm **Virinchi Manepalli**. I like to code and learn new things. Always ready to collaborate on projects.
 
-### 🔭 I'm Currently Working in [Ed-tech startup(YC-21)](https://sparkstudio.co/)
+### 🔭 I'm Currently Working in [Ed-tech startup(YC-S21)](https://sparkstudio.co/)
 
 ### 🔭 Check out [My Portfolio](https://virinchimanepalli.netlify.app/)
 
