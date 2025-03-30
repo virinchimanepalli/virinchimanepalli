@@ -1,8 +1,8 @@
 # Hi there!!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
-I'm **Virinchi Manepalli**. I like to code and learn new things. Always ready to collaborate on projects.
+My name is Virinchi Manepalli. I like to code and learn new things, and I'm always ready to collaborate on projects.
 
-### 🔭 I'm Currently Working in [Ed-tech startup(YC-S21)](https://sparkstudio.co/)
+### 🔭 I'm Currently Working in [Simpl Pay later](https://getsimpl.com/)
 
 ### 🔭 Check out [My Portfolio](https://virinchimanepalli.netlify.app/)
 
