@@ -2,7 +2,7 @@
 
 My name is Virinchi Manepalli. I like to code and learn new things, and I'm always ready to collaborate on projects.
 
-### 🔭 I'm Currently Working in [Simpl Pay later](https://getsimpl.com/)
+### 🔭 I'm Currently Working as a Senior Software Engineer at [Simpl Pay later](https://getsimpl.com/)
 
 ### 🔭 Check out [My Portfolio](https://virinchimanepalli.netlify.app/)
 
